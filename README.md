@@ -1,10 +1,10 @@
 # Content Based Image Retrieval
 
 Requirements : 
-The Code was run on Virtual Machine with 52 GB RAM which is NVIDIA GPU enabled which helped us to Trained VGG16, ResNet50 and Inceptionv3.
+The Code was run on Virtual Machine with 52 GB RAM which is NVIDIA GPU enabled which helped us to train VGG16, ResNet50 and Inceptionv3 models.
 Repository Structure :
-The ‘Notebook’ Directory Contains 3 .ipny files (Jupyter Notebook) Here we will see How to run the code. 
-The  ‘Sample Retrieval’ Directory Contains 3 Folder [CBIR, Oxford, Paris] which contains Good Retrieval Images from Best Model on 5 Test Images from each Dataset.
+The ‘Notebook’ Directory Contains 3 .ipny files (Jupyter Notebook). 
+The  ‘Sample Retrieval’ Directory Contains 3 Folders [CBIR, Oxford, Paris] which contain sample retrieved images from Best Model on 5 Test Images from each Dataset.
 How to Run the Code : 
 Use latest Version python == 3.9.5 ,GPU must be enabled in order to Perform Tuning using Transfer Learning .
 To run the Code : Make sure to load all the Libraries, numpy, pandas, matplotlib, tensorflow.
