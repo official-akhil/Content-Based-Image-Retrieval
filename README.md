@@ -1,4 +1,4 @@
-# IR_Project_CBIR
+# Content Based Image Retrieval
 
 Requirements : 
 The Code was run on Virtual Machine with 52 GB RAM which is NVIDIA GPU enabled which helped us to Trained VGG16, ResNet50 and Inceptionv3.
