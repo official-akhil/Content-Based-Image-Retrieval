@@ -8,7 +8,7 @@ The  ‘Sample Retrieval’ Directory Contains 3 Folders [CBIR, Oxford, Paris] w
 How to Run the Code : 
 Use latest Version python == 3.9.5 ,GPU must be enabled in order to Perform Tuning using Transfer Learning .
 To run the Code : Make sure to load all the Libraries, numpy, pandas, matplotlib, tensorflow.
-We will show how to run our code on CBIR Dataset.
+We will show how to run our code on [CBIR Dataset](https://www.kaggle.com/ameyaditya/cbir-50).
 1. Download the Dataset.
 2. Make sure you are in Dataset Directory and run the Cell in order to generate ‘class-mappings’ dictionary.
  
